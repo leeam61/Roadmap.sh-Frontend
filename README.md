@@ -1,2 +1,2 @@
 # Roadmap.sh-Frontend
-This is my studying folder
+This is my frontend portfolio 
