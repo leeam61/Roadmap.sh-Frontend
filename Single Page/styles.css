@@ -2,25 +2,47 @@
   font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
   font-weight: 17;
-  font-style: bold;
+  font-style: normal;
 }
 
 .nunito-h2 {
   font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
   font-weight: 13;
-  font-style: bold;
 }
 
 .nunito-h3 {
   font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
   font-weight: 12;
-  font-style: bold;
+  font-style: normal;
 }
 .nunito-p {
   font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
   font-weight: 11;
-  font-style: bold;
+  font-style: normal;
+}
+
+.mainpage {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  width: 900px;
+  border: 3px solid rgb(51, 51, 51);
+  margin: auto;
+}
+
+h2 {
+  color: #37a24c;
+}
+
+h3 {
+  color: #1971c2;
+}
+
+.line {
+  width: 600px;
+  border: 1px solid rgb(51, 51, 51);
+  border-radius: 6px;
 }
