@@ -1,4 +1,4 @@
 # Roadmap.sh-Frontend
 This is my frontend portfolio 
 
-<a href="https://github.com/leeam61/Roadmap.sh-Frontend/tree/main/Single%20Page"> Single Page CV</a>
+<a href="https://roadmap.sh/projects/single-page-cv"> Single Page CV</a>  
